@@ -1,9 +1,4 @@
-# Title
+# ブラウザのしくみ本実習リポジトリ
 
-## Summary
+ブラウザのしくみ本を実習するためのリポジトリ
 
-## Install
-
-## Usage
-
-## License
